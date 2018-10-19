@@ -94,7 +94,7 @@ Once you have your id, put it into the JSON file as the `id` field, e.g.
   "title": "Challenge Title",
 ```
   
-
+my changes
 ## Writing tests
 
 Challenges should have the minimum number of tests necessary to verify that a camper understands a concept.
